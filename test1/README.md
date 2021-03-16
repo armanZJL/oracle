@@ -16,7 +16,9 @@ GROUP BY d.department_name;
 
 - ## 结果
 
-![1](D:\大学每一学期内容\6学期\赵卫东-Oracle数据库应用\实验一\1.png)
+![1](1.png)
+
+
 
 
 
@@ -36,7 +38,9 @@ HAVING d.department_name in ('IT','Sales');
 
 - ## 结果
 
-![2](D:\大学每一学期内容\6学期\赵卫东-Oracle数据库应用\实验一\2.png)
+![2](2.png)
+
+
 
 - ## 代码分析
 
@@ -59,4 +63,4 @@ GROUP BY c.department_name
 
 - ## 结果
 
-![3](D:\大学每一学期内容\6学期\赵卫东-Oracle数据库应用\实验一\3.png)
+![3](3.png)
