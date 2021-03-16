@@ -16,7 +16,7 @@ GROUP BY d.department_name;
 
 - ## 结果
 
-![1](../1.png)
+![1](1.png)
 
 
 
